@@ -5,7 +5,7 @@ html,body {
 }
 
 .bg {
-    background-image: url("https://jonskie42.github.io/crb-vip.github.io/assets/img/bg-desktop.webp");
+    background-image: url("https://jonskie42.github.io/crb-vip/assets/img/bg-desktop.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -226,7 +226,7 @@ details {
 
 @media screen and (max-width: 600px) {
     .bg {
-        background-image: url("https://jonskie42.github.io/crb-vip.github.io/assets/img/bg-mobile.webp");
+        background-image: url("https://jonskie42.github.io/crb-vip/assets/img/bg-mobile.webp");
     }
     .ceriaframe {
         padding: 8px;
